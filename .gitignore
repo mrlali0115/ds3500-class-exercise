@@ -19,3 +19,6 @@ venv/
 .idea/
 .env
 !requirements.txt
+
+# Class 16-18 database files
+class16_18/data/
